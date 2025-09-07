@@ -1,5 +1,5 @@
 const groups = [
-    ["Dubai", "Nepal", "Kazakhstan", "Switzerland"],      // Fruits
+    ["Dubai", "Nepal", "Canada", "Switzerland"],      // Fruits
     ["Coloring", "Singing", "Praying", "Playing Guitar"],              // Animals
     ["Business", "Leading", "Swimming", "Cooking"],          // Colors
     ["Coimbatore", "Trichy", "Baroda", "Mumbai"]              // Vehicles
