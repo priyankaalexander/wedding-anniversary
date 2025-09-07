@@ -7,8 +7,8 @@ const groups = [
 
 const categories = [
     "International Destinations Travelled Together",
-    "Ida's Hobbies & Interests",
-    "Alex's Talents & Skills",
+    "Ida's Talents & Hobbies",
+    "Alex's Talents & Hobbies",
     "Places Travelled in India Together"
 ];
 
